@@ -15,4 +15,4 @@ while essais > 0 :
         print("Good you found.")
         break
 else:
-    print("You LOSE bahahahaha anis t un rageur ")
+    print("You LOOSE")
